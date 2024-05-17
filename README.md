@@ -29,6 +29,7 @@ New library. The new library form appears.
  different from the path shown in your form.
  3.Click ok when done the above setting. A black
  schematic window for the inverter design appears.
+
  Adding components to schematic: 
  1.In the
  inverter schematic window, click the instance fixed menu icon to display the add instance form.
