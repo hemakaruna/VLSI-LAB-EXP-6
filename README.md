@@ -177,10 +177,6 @@ Running the simulation:
 
 ![image](https://github.com/hemakaruna/VLSI-LAB-EXP-6/assets/160728787/641e686a-dd22-4f2d-9895-c0af592b55a7)
 
-CMOS NAND GATE NAND SCHEMATIC
-
-![image](https://github.com/hemakaruna/VLSI-LAB-EXP-6/assets/160728787/49fea162-2377-4301-90fd-278a8d6c0ba0)
-
 
 NAND TEST CELL VIEW
 
